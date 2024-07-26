@@ -1,0 +1,25 @@
+Why Cloud Computing?
+Scalability: Cloud services can easily scale up or down based on demand, so you only pay for what you use.
+
+Cost Efficiency: Cloud computing often reduces the need for significant upfront investments in hardware and infrastructure. You can pay for cloud resources on a subscription or usage-based model.
+
+Accessibility: Cloud services are accessible from anywhere with an internet connection, which enhances collaboration and remote work capabilities.
+
+Disaster Recovery: Many cloud providers offer robust backup and disaster recovery solutions, reducing the risk of data loss.
+
+Automatic Updates: Cloud providers handle software updates and maintenance, ensuring that you have the latest features and security patches.
+
+Flexibility: You can choose from a wide range of services and tools to meet your specific needs, from computing power to storage to analytics.
+
+What is the Cloud?
+Infrastructure as a Service (IaaS): Provides virtualized computing resources over the internet. Examples: Amazon EC2, Google Compute Engine.
+
+Platform as a Service (PaaS): Offers hardware and software tools over the internet, often for application development. Examples: AWS Elastic Beanstalk, Google App Engine.
+
+Software as a Service (SaaS): Delivers software applications over the internet, on a subscription basis. Examples: Google Workspace, Microsoft Office 365.
+
+Public Cloud: Services are delivered over the public internet and shared across multiple organizations. Examples: AWS, Azure, Google Cloud Platform.
+
+Private Cloud: Cloud infrastructure is dedicated to a single organization, offering more control and security. It can be hosted on-premises or by a third-party provider.
+
+Hybrid Cloud: Combines public and private clouds, allowing data and applications to be shared between them.
